@@ -1,0 +1,10 @@
+C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i programowanie obiektowe\Sprawozdanie grupowe\projekt_grupa1\bin\Debug\projekt_grupa1.exe.config
+C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i programowanie obiektowe\Sprawozdanie grupowe\projekt_grupa1\bin\Debug\projekt_grupa1.exe
+C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i programowanie obiektowe\Sprawozdanie grupowe\projekt_grupa1\bin\Debug\projekt_grupa1.pdb
+C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i programowanie obiektowe\Sprawozdanie grupowe\projekt_grupa1\obj\Debug\projekt_grupa1.csproj.AssemblyReference.cache
+C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i programowanie obiektowe\Sprawozdanie grupowe\projekt_grupa1\obj\Debug\projekt_grupa1.Properties.Resources.resources
+C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i programowanie obiektowe\Sprawozdanie grupowe\projekt_grupa1\obj\Debug\projekt_grupa1.csproj.GenerateResource.cache
+C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i programowanie obiektowe\Sprawozdanie grupowe\projekt_grupa1\obj\Debug\projekt_grupa1.csproj.CoreCompileInputs.cache
+C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i programowanie obiektowe\Sprawozdanie grupowe\projekt_grupa1\obj\Debug\projekt_grupa1.exe
+C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i programowanie obiektowe\Sprawozdanie grupowe\projekt_grupa1\obj\Debug\projekt_grupa1.pdb
+C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i programowanie obiektowe\Sprawozdanie grupowe\projekt_grupa1\obj\Debug\Astar_search_algorithm.Form1.resources
