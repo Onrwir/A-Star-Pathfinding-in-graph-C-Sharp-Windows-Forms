@@ -18,3 +18,13 @@ C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i 
 C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i programowanie obiektowe\Sprawozdanie grupowe\A_star_pathfinding\obj\Debug\A_star_pathfinding.csproj.CoreCompileInputs.cache
 C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i programowanie obiektowe\Sprawozdanie grupowe\A_star_pathfinding\obj\Debug\projekt_grupa1.exe
 C:\Users\Onrwir\Desktop\Studia\Studia magisterskie\Semestr 2\Struktury danych i programowanie obiektowe\Sprawozdanie grupowe\A_star_pathfinding\obj\Debug\projekt_grupa1.pdb
+C:\Users\Onrwir\Desktop\Prywatne\Projekty\GitHub\A-Star-Pathfinding-CSharp\obj\Debug\A_star_pathfinding.csproj.AssemblyReference.cache
+C:\Users\Onrwir\Desktop\Prywatne\Projekty\GitHub\A-Star-Pathfinding-CSharp\obj\Debug\Astar_search_algorithm.Form1.resources
+C:\Users\Onrwir\Desktop\Prywatne\Projekty\GitHub\A-Star-Pathfinding-CSharp\obj\Debug\projekt_grupa1.Properties.Resources.resources
+C:\Users\Onrwir\Desktop\Prywatne\Projekty\GitHub\A-Star-Pathfinding-CSharp\obj\Debug\A_star_pathfinding.csproj.GenerateResource.cache
+C:\Users\Onrwir\Desktop\Prywatne\Projekty\GitHub\A-Star-Pathfinding-CSharp\obj\Debug\A_star_pathfinding.csproj.CoreCompileInputs.cache
+C:\Users\Onrwir\Desktop\Prywatne\Projekty\GitHub\A-Star-Pathfinding-CSharp\obj\Debug\projekt_grupa1.exe
+C:\Users\Onrwir\Desktop\Prywatne\Projekty\GitHub\A-Star-Pathfinding-CSharp\obj\Debug\projekt_grupa1.pdb
+C:\Users\Onrwir\Desktop\Prywatne\Projekty\GitHub\A-Star-Pathfinding-CSharp\bin\Debug\projekt_grupa1.exe.config
+C:\Users\Onrwir\Desktop\Prywatne\Projekty\GitHub\A-Star-Pathfinding-CSharp\bin\Debug\projekt_grupa1.exe
+C:\Users\Onrwir\Desktop\Prywatne\Projekty\GitHub\A-Star-Pathfinding-CSharp\bin\Debug\projekt_grupa1.pdb

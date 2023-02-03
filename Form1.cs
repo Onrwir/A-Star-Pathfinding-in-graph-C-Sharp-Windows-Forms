@@ -18,6 +18,7 @@ namespace Astar_search_algorithm
         public Form1()
         {
             InitializeComponent();
+            this.Text = "A* Pathfinding";
         }
 
 
@@ -494,6 +495,7 @@ namespace Astar_search_algorithm
 
             }
 
+            foundPath_tb.Text = "";
             graph.vertices.Clear();
             graph.edges.Clear();
             panel1.CreateGraphics().Clear(BackColor);
