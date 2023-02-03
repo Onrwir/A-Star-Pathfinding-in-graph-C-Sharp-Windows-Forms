@@ -10,7 +10,8 @@ Features included:
 - Clearing all data,
 - Generating test data,
 - Selecting starting and ending point of path,
-- Displaying all vertices and edges in the graph.
+- Displaying all vertices and edges in the graph,
+- Marking found path in panel.
 
 Algorithm written based on:
 - https://www.kodeco.com/3016-introduction-to-a-pathfinding
